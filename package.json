@@ -9,6 +9,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "@solana/web3.js": "^1.70.1",
-    "@solana/spl-token": "^0.3.8"
+    "@solana/spl-token": "^0.3.8",
+    "@phantom-web3/connect": "^0.0.3"
   }
 }
